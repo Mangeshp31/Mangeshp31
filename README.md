@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mangeshp31/Mangeshp31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +32,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/biswarup14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biswarup14&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup14&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mangeshp31&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangeshp31&theme=buefy&layout=compact" />
 </a>
